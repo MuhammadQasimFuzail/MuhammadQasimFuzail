@@ -4,7 +4,7 @@
 
 - 💻 I'm a full stack developer specialising in **Mobile Apps** 
 
-- 🌱 I’m currently learning **.NET and Nodejs**
+- 🌱 Currently learning **.NET and Nodejs**
 
 - 📫 Reach me at **qasimfuzail@gmail.com**
 
