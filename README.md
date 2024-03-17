@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Qasim Fuzail</h1>
-<h3 align="center">I'm a a software engineer who loves solving complex problems with code</h3>
+<h3 align="center">I'm a software engineer and loves to develop new things</h3>
+<h4 align="center">If you can think it, I can build it</h4>
+
 
 - 🌱 I’m currently learning **.NET and Nodejs**
 
