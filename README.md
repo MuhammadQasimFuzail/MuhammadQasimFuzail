@@ -2,6 +2,7 @@
 <h3 align="center">I'm a software engineer and loves to develop new things</h3>
 <h4 align="center">If you can think it, I can build it</h4>
 
+- 💻 I'm a full stack developer specialising in **Mobile Apps** 
 
 - 🌱 I’m currently learning **.NET and Nodejs**
 
