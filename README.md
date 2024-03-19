@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning **.NET and Nodejs**
 
-- 📫 Reach me at **qasimfuzail@gmail.com**
+- 📫 Reach out to me at **qasimfuzail@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1S5aLjg3yCSrlBr6AWKZJ83BjbLrIrACP/view?usp=sharing](https://drive.google.com/file/d/1S5aLjg3yCSrlBr6AWKZJ83BjbLrIrACP/view?usp=sharing)
 
