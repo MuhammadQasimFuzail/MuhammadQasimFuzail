@@ -8,7 +8,7 @@
 
 - 📫 Reach out to me at **qasimfuzail@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S5aLjg3yCSrlBr6AWKZJ83BjbLrIrACP/view?usp=sharing](https://drive.google.com/file/d/1S5aLjg3yCSrlBr6AWKZJ83BjbLrIrACP/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/wzBO9](https://shorturl.at/wzBO9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
