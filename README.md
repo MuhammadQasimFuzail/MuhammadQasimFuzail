@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Qasim Fuzail</h1>
-<h3 align="center">I'm a software engineer and loves to develop new things</h3>
-<h4 align="center">If you can think it, I can build it</h4>
+<h3 align="center">I'm a software engineer who loves to develop new things</h3>
+<h4 align="center">If you can think of it, I can build it!</h4>
 
-- 💻 I'm a full stack developer specialising in **Mobile Apps** 
+- 💻 I'm a full stack software engineer specialising in **Mobile Apps** 
 
-- 🌱 Currently learning **.NET and Nodejs**
+- 🌱 Currently learning **Angular and Nodejs**
 
 - 📫 Reach out to me at **qasimfuzail@gmail.com**
 
