@@ -2,13 +2,9 @@
 <h3 align="center">I'm a software engineer who loves to develop new things</h3>
 <h4 align="center">If you can think of it, I can build it!</h4>
 
-- 💻 I'm a full stack software engineer specialising in **Mobile Apps** 
-
-- 🌱 Currently learning **Angular and Nodejs**
+- 💻 I'm a full stack software engineer specialising in **Innovation** 
 
 - 📫 Reach out to me at **qasimfuzail@gmail.com**
-
-- 📄 Know about my experiences [https://shorturl.at/wzBO9](https://shorturl.at/wzBO9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
