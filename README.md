@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently doing Master's in Informatik from **Universität Passau**
 
-- 📫 Reach me at **qasimfuzail@gmail.com**
+- 📫 Reach out to me at **qasimfuzail@gmail.com**
   
-- 🌐 Check out my <a href="https://portfolio-muhammadqasimfuzails-projects.vercel.app/">portfolio website</a>
+- 🌐 Visit my portfolio website <a href="https://portfolio-muhammadqasimfuzails-projects.vercel.app/">here</a>
 
 
 
