@@ -2,11 +2,14 @@
 <h3 align="center">I'm a software engineer who loves to develop new things</h3>
 <h4 align="center">If you can think of it, I can build it!</h4>
 
-- 💻 I'm a full stack software engineer specialising in **Innovation** based in **Germany**
+- 💻 I'm a full stack software engineer specialising in **Innovation**, based in **Germany**
 
 - 🔭 I’m currently doing Master's in Informatik from **Universität Passau**
 
 - 📫 How to reach me **qasimfuzail@gmail.com**
+  
+- 🌐 Here's my <a href="https://portfolio-muhammadqasimfuzails-projects.vercel.app/">portfolio website</a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
